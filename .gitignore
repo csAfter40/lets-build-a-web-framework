@@ -11,6 +11,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Database
+*.db
+
 # Distribution / packaging
 .Python
 build/
@@ -157,3 +160,4 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+ex6/project.db
